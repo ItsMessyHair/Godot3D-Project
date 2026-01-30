@@ -60,7 +60,7 @@ transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.614488, -3.61865)
 transform = Transform3D(0.922834, -0.385197, 0, 0.385197, 0.922834, 0, 0, 0, 1, 0, 2.16641, 0)
 
 [node name="Block2" parent="Blocks" instance=ExtResource("1_4raqu")]
-transform = Transform3D(0.569585, 0.419014, -0.707107, -0.592576, 0.805515, 0, 0.569585, 0.419014, 0.707107, 0, 4.2377, 1)
+transform = Transform3D(0.569585, 0.419014, -0.707107, -0.592576, 0.805515, 0, 0.569585, 0.419014, 0.707107, -1.20475, 4.51998, -2.47493)
 
 [node name="coin1" parent="." instance=ExtResource("5_2md4s")]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.92536, -1.85251)
